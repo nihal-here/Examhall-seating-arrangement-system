@@ -60,14 +60,17 @@ To use the Seating Arranger application, follow these steps:
 
 5. Explore the application, add more rooms or students if needed, and generate new seating arrangements as desired.
 
-## Contributing
-
-Contributions to the Seating Arranger project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
 
 ## Screenshots
 
-Include relevant screenshots of the application to provide visual examples of its usage.
+![image](https://github.com/nihal-here/Examhall-seating-arrangement-system/assets/92803275/bbd81033-e7c2-4c98-8f96-ceceeb582c1c)
+
+<img width="1810" alt="image" src="https://github.com/nihal-here/Examhall-seating-arrangement-system/assets/92803275/4d3b7317-1bcd-470a-b643-86b1e96e5662">
+
+<img width="1810" alt="image" src="https://github.com/nihal-here/Examhall-seating-arrangement-system/assets/92803275/39f2ac8b-64de-4110-8a16-e4b9dd354017">
+
+
 
 
 
