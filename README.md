@@ -1,6 +1,6 @@
-# Examhall-seating-arrangement-system
+# Seating Arranger
 
-Examhall-seating-arrangement-system is a Python application developed using the PyQt5 library. It provides a user-friendly interface to arrange students in rooms based on their department and roll number. The application allows you to input room and student details, generate seating arrangements, and view the results.
+Seating Arranger is a Python application developed using the PyQt5 library. It provides a user-friendly interface to arrange students in rooms based on their department and roll number. The application allows you to input room and student details, generate seating arrangements, and view the results.
 
 ## Features
 
